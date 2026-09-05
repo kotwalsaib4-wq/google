@@ -1,0 +1,13 @@
+# د Python Telegram بوټ لپاره
+pyrogram==2.0.106
+tgcrypto==1.2.5
+python-telegram-bot==20.7
+aiohttp==3.9.1
+
+# د IP او موقعیت لپاره
+requests==2.31.0
+aiohttp-socks==0.8.4
+
+# د لاګونو او نورو لپاره
+colorama==0.4.6
+python-dotenv==1.0.0 
